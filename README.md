@@ -1,2 +1,1 @@
-# Wazoku
-Wazoku_utilities
+# Utilities
